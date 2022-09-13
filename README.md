@@ -1,2 +1,2 @@
-# blitzed-grabber-V12
+# dxxxxxxxxxxxx
 Token and all password stealer 
